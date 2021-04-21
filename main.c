@@ -53,7 +53,7 @@ int main()
 
     return 0;
 }
-
+//below methods is parts of code I wrote
 void readInput(int arr[], int *nPtr)
 {
     printf("Enter the number of elements: \n");
